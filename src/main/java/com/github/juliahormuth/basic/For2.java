@@ -1,6 +1,6 @@
 package com.github.juliahormuth.basic;
 
-public class Foreach {
+public class For2 {
 
     public static void main(String[] args) {
         double[] notes = { 9.9, 8.7, 7.2, 9.4 };
