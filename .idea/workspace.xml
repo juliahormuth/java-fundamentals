@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d65d06f2-eaa5-4955-a7f2-ec38092ed862" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/heritage/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/heritage/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/heritage/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/heritage/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/heritage/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/relationship/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/relationship/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/relationship/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/relationship/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/Break.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/Continue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/For1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/Foreach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/SwitchBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/While.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/array/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/array/TesteVetor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/array/TesteVetor2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/array/Vetor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/constructor/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/constructor/CarInstance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/constructor/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/constructor/Motor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/heritage/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/heritage/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/heritage/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/heritage/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/relationship/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/relationship/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/relationship/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/relationship/Test.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NYYweSjF7sO7BaHec6x1fraf8i" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java-fundamentals&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.com.github.juliahormuth.heritage.Test">
+    <configuration name="CarInstancie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.juliahormuth.CarInstancie" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.juliahormuth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="For1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.juliahormuth.For1" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.juliahormuth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.juliahormuth.relationship.Test" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.juliahormuth.relationship.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="White" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.juliahormuth.White" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.juliahormuth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.github.juliahormuth.heritage.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.juliahormuth.heritage.Test" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.juliahormuth.heritage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.github.juliahormuth.heritage.Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.CarInstancie" />
+        <item itemvalue="Application.For1" />
+        <item itemvalue="Application.White" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d65d06f2-eaa5-4955-a7f2-ec38092ed862" name="Changes" comment="" />
+      <created>1679842725371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679842725371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/github/juliahormuth/relationship/Test.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
