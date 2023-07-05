@@ -5,47 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d65d06f2-eaa5-4955-a7f2-ec38092ed862" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/heritage/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/heritage/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/heritage/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/heritage/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/heritage/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/relationship/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/relationship/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/relationship/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/relationship/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/Break.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/Continue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/For1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/Foreach.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/SwitchBreak.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/While.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/array/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/array/TesteVetor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/array/TesteVetor2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/basic/array/Vetor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/constructor/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/constructor/CarInstance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/constructor/Color.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/constructor/Motor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/heritage/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/heritage/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/heritage/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/heritage/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/relationship/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/relationship/Contact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/relationship/Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/github/juliahormuth/relationship/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juliahormuth/basic/Foreach.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
